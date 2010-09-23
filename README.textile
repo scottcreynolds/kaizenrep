@@ -1,0 +1,3 @@
+Simple, lightweight, no-configuration reputation bar changer. Changes reputation based on the last faction for which a gain/loss was reported.
+
+Other addons are excellent and more appropriate if you want to know how much time you have left to a certain reputation level, or if you want to know how better to grind a given reputation, but if you only want to automatically change your bar based on reputation changes in real time, this is for you.
