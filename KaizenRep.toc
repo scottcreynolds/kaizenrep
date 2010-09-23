@@ -1,0 +1,12 @@
+## Interface: 40100
+
+## Title: KaizenRep
+## Version: 1.0
+
+## X-Category: Reputation
+
+## Author: LoganVi
+## X-Website: http://github.com/scottcreynolds	
+## Notes: Simple addon to change your reputation bar to the last gained/lost faction. Nothing more.
+
+KaizenRep.lua
